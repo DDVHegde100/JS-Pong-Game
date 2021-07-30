@@ -1,3 +1,5 @@
+
+//Created by Dhruv Hegde
 //create the ball, playerPaddle and computerPaddle as sprite objects
 var ball = createSprite(200,200,15,15);
 var playerPaddle = createSprite(380,200,10,70);
